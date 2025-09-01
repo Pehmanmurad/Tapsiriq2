@@ -1,4 +1,3 @@
-/* Genel */
 * {
   margin: 0;
   padding: 0;
@@ -17,7 +16,7 @@ body {
   margin: 0 auto;
 }
 
-/* Üst kısım */
+
 .site-header {
   background: #7a0019;
   color: #fff;
@@ -34,7 +33,6 @@ body {
   opacity: 0.9;
 }
 
-/* Menü */
 .site-nav {
   background: #600014;
 }
@@ -61,7 +59,7 @@ body {
   background: #44000d;
 }
 
-/* İçerik */
+
 .content {
   display: flex;
   margin: 20px 0;
@@ -82,7 +80,7 @@ body {
   margin-bottom: 12px;
 }
 
-/* Yan panel */
+
 .sidebar {
   flex: 1;
   background: #f6f6f6;
@@ -112,7 +110,7 @@ body {
   color: #7a0019;
 }
 
-/* Footer */
+
 .site-footer {
   background: #7a0019;
   color: #fff;
